@@ -27,7 +27,7 @@
 
 
 (define framework:color-schemes
-  `(#hash((name . "John")
+  `(#hash((name . "Sublime")
           (colors
            .
            ((framework:basic-canvas-background
